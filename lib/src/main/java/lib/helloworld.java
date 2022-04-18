@@ -12,7 +12,7 @@ private static Logger LOGGER = LoggerFactory.getLogger(helloworld.class);
 
 
 public static void main(String[] args) {
-LOGGER.info("Hello World");
+LOGGER.info("Hello GitHub");
 //System.out.println("Hello World");
 }
 }
